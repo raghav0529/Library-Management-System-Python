@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "947173452722",
+    "firebase_url": "https://library-automation-c121b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "library-automation-c121b",
+    "storage_bucket": "library-automation-c121b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947173452722:android:17e5b558aed705ff2a52ab",
+        "android_client_info": {
+          "package_name": "com.stmarys.addbooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947173452722-5hkd9s2itvb6785nog8okpo697nc0gh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClyiOxlRNGw2xFvzY322ZOOofgtXc4V6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947173452722-5hkd9s2itvb6785nog8okpo697nc0gh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947173452722:android:2c9775a9619671232a52ab",
+        "android_client_info": {
+          "package_name": "com.stmarys.librarybooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947173452722-5hkd9s2itvb6785nog8okpo697nc0gh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClyiOxlRNGw2xFvzY322ZOOofgtXc4V6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947173452722-5hkd9s2itvb6785nog8okpo697nc0gh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
