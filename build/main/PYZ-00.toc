@@ -1,0 +1,4372 @@
+('C:\\Raghav New\\Library Automation\\Library Books '
+ 'Python\\build\\main\\PYZ-00.pyz',
+ [('win32com',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('winerror',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\struct.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_common.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\stat.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\glob.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('commctrl',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('pywintypes',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pyparsing',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\uuid.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\ssl.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\tty.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\runpy.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\codeop.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\__future__.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\cmd.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('packaging.__about__',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('packaging',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._typing',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('win32com.shell.shellcon',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32comext\\shell\\shellcon.py',
+   'PYMODULE'),
+  ('win32com.shell',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32comext\\shell\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\imp.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\inspect.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\token.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\ast.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\platform.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\queue.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\secrets.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('return_book',
+   'C:\\Raghav New\\Library Automation\\Library Books Python\\return_book.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('issue_by_available',
+   'C:\\Raghav New\\Library Automation\\Library Books '
+   'Python\\issue_by_available.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('cffi',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('site',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PyInstaller\\fake-modules\\site.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('cgi',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\cgi.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils.msvc9compiler',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('setuptools',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._typing',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._compat',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.__about__',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.ordered_set',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\_vendor\\ordered_set.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('setuptools.namespaces',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\namespaces.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools.py34compat',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\py34compat.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.py36compat',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\command\\py36compat.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\config.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command.install_scripts',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('setuptools.command.easy_install',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\command\\easy_install.py',
+   'PYMODULE'),
+  ('setuptools.package_index',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\package_index.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.sandbox',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\sandbox.py',
+   'PYMODULE'),
+  ('distutils.command.build_scripts',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.install',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('distutils.command.install_scripts',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools.extern',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\extern\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('setuptools.ssl_support',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\ssl_support.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools._deprecation_warning',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\setuptools\\_deprecation_warning.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('pycparser.lextab',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pycparser\\lextab.py',
+   'PYMODULE'),
+  ('pycparser.yacctab',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pycparser\\yacctab.py',
+   'PYMODULE'),
+  ('pycparser',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.plyparser',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pycparser\\plyparser.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.ply.lex',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pycparser\\ply\\lex.py',
+   'PYMODULE'),
+  ('pycparser.ply.yacc',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pycparser\\ply\\yacc.py',
+   'PYMODULE'),
+  ('pycparser.ply',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pycparser\\ply\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('numpy',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\doctest.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\difflib.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.machar',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\machar.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._version',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\_version.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('issue_by_name',
+   'C:\\Raghav New\\Library Automation\\Library Books Python\\issue_by_name.py',
+   'PYMODULE'),
+  ('issue_by_author',
+   'C:\\Raghav New\\Library Automation\\Library Books '
+   'Python\\issue_by_author.py',
+   'PYMODULE'),
+  ('main',
+   'C:\\Raghav New\\Library Automation\\Library Books Python\\main.py',
+   'PYMODULE'),
+  ('add_book',
+   'C:\\Raghav New\\Library Automation\\Library Books Python\\add_book.py',
+   'PYMODULE'),
+  ('pyrebase',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyrebase\\__init__.py',
+   'PYMODULE'),
+  ('pyrebase.pyrebase',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyrebase\\pyrebase.py',
+   'PYMODULE'),
+  ('Crypto.PublicKey.RSA',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\PublicKey\\RSA.py',
+   'PYMODULE'),
+  ('Crypto.PublicKey._openssh',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\PublicKey\\_openssh.py',
+   'PYMODULE'),
+  ('Crypto.Util.strxor',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Util\\strxor.py',
+   'PYMODULE'),
+  ('Crypto.Util',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Util\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.Util._cpu_features',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Util\\_cpu_features.py',
+   'PYMODULE'),
+  ('Crypto.Util._raw_api',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Util\\_raw_api.py',
+   'PYMODULE'),
+  ('Crypto.Util._file_system',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Util\\_file_system.py',
+   'PYMODULE'),
+  ('Crypto.Protocol.KDF',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Protocol\\KDF.py',
+   'PYMODULE'),
+  ('Crypto.Protocol',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Protocol\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._EKSBlowfish',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Cipher\\_EKSBlowfish.py',
+   'PYMODULE'),
+  ('Crypto.Util.number',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Util\\number.py',
+   'PYMODULE'),
+  ('Crypto.Hash.BLAKE2s',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Hash\\BLAKE2s.py',
+   'PYMODULE'),
+  ('Crypto.Hash.CMAC',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Hash\\CMAC.py',
+   'PYMODULE'),
+  ('Crypto.Hash.HMAC',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Hash\\HMAC.py',
+   'PYMODULE'),
+  ('Crypto.Hash.MD5',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Hash\\MD5.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA256',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Hash\\SHA256.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA1',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Hash\\SHA1.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA512',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Hash\\SHA512.py',
+   'PYMODULE'),
+  ('Crypto.Hash',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Hash\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA384',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Hash\\SHA384.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA224',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Hash\\SHA224.py',
+   'PYMODULE'),
+  ('Crypto.Cipher.AES',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Cipher\\AES.py',
+   'PYMODULE'),
+  ('Crypto.Cipher',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Cipher\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.Cipher.DES3',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Cipher\\DES3.py',
+   'PYMODULE'),
+  ('Crypto.Cipher.ARC2',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Cipher\\ARC2.py',
+   'PYMODULE'),
+  ('Crypto.Cipher.DES',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Cipher\\DES.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_ocb',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Cipher\\_mode_ocb.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_gcm',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Cipher\\_mode_gcm.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_siv',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Cipher\\_mode_siv.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_eax',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Cipher\\_mode_eax.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_ccm',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Cipher\\_mode_ccm.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_openpgp',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Cipher\\_mode_openpgp.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_ctr',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Cipher\\_mode_ctr.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_ofb',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Cipher\\_mode_ofb.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_cfb',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Cipher\\_mode_cfb.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_cbc',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Cipher\\_mode_cbc.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_ecb',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Cipher\\_mode_ecb.py',
+   'PYMODULE'),
+  ('Crypto.IO.PEM',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\IO\\PEM.py',
+   'PYMODULE'),
+  ('Crypto.Util.Padding',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Util\\Padding.py',
+   'PYMODULE'),
+  ('Crypto.IO.PKCS8',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\IO\\PKCS8.py',
+   'PYMODULE'),
+  ('Crypto.IO._PBES',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\IO\\_PBES.py',
+   'PYMODULE'),
+  ('Crypto.IO',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\IO\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.Math.Primality',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Math\\Primality.py',
+   'PYMODULE'),
+  ('Crypto.Math',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Math\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.Math.Numbers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Math\\Numbers.py',
+   'PYMODULE'),
+  ('Crypto.Math._IntegerNative',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Math\\_IntegerNative.py',
+   'PYMODULE'),
+  ('Crypto.Math._IntegerBase',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Math\\_IntegerBase.py',
+   'PYMODULE'),
+  ('Crypto.Math._IntegerCustom',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Math\\_IntegerCustom.py',
+   'PYMODULE'),
+  ('Crypto.Random.random',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Random\\random.py',
+   'PYMODULE'),
+  ('Crypto.Math._IntegerGMP',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Math\\_IntegerGMP.py',
+   'PYMODULE'),
+  ('Crypto.Util.asn1',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Util\\asn1.py',
+   'PYMODULE'),
+  ('Crypto.Util.py3compat',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Util\\py3compat.py',
+   'PYMODULE'),
+  ('Crypto.Random',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Random\\__init__.py',
+   'PYMODULE'),
+  ('Crypto',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.PublicKey',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\PublicKey\\__init__.py',
+   'PYMODULE'),
+  ('python_jwt',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\python_jwt\\__init__.py',
+   'PYMODULE'),
+  ('jwcrypto.common',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\jwcrypto\\common.py',
+   'PYMODULE'),
+  ('jwcrypto',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\jwcrypto\\__init__.py',
+   'PYMODULE'),
+  ('jwcrypto.jws',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\jwcrypto\\jws.py',
+   'PYMODULE'),
+  ('jwcrypto.jwk',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\jwcrypto\\jwk.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x448',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.backend',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\backend.py',
+   'PYMODULE'),
+  ('cryptography.x509.ocsp',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\x509\\ocsp.py',
+   'PYMODULE'),
+  ('cryptography.x509.base',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\x509\\base.py',
+   'PYMODULE'),
+  ('cryptography.x509.oid',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\x509\\oid.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._oid',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\_oid.py',
+   'PYMODULE'),
+  ('cryptography.hazmat',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.x509.name',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\x509\\name.py',
+   'PYMODULE'),
+  ('cryptography.x509.extensions',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\x509\\extensions.py',
+   'PYMODULE'),
+  ('cryptography.x509.general_name',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\x509\\general_name.py',
+   'PYMODULE'),
+  ('cryptography.x509.certificate_transparency',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\x509\\certificate_transparency.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.constant_time',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\constant_time.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._types',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\_types.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.ssh',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\ssh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.base',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._cipheralgorithm',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_cipheralgorithm.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.pkcs7',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\pkcs7.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf.scrypt',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\scrypt.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.modes',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.algorithms',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.padding',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._asymmetric',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_asymmetric.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dsa',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.utils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dh',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl.binding',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\binding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl._conditional',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\_conditional.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\bindings\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.x509',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x509.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.x448',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.utils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.x25519',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.rsa',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.poly1305',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\poly1305.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ocsp',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ocsp.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.hmac',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\hmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.hashes',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.encode_asn1',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\encode_asn1.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ed448',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ed25519',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ec',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.dsa',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.dh',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.decode_asn1',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\decode_asn1.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.cmac',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\cmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ciphers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ciphers.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.aead',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.aead',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.interfaces',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\interfaces.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._der',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\_der.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.utils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._serialization',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_serialization.py',
+   'PYMODULE'),
+  ('cryptography.exceptions',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x25519',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed448',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed25519',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed25519.py',
+   'PYMODULE'),
+  ('deprecated',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\deprecated\\__init__.py',
+   'PYMODULE'),
+  ('deprecated.classic',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\deprecated\\classic.py',
+   'PYMODULE'),
+  ('wrapt',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\wrapt\\__init__.py',
+   'PYMODULE'),
+  ('wrapt.arguments',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\wrapt\\arguments.py',
+   'PYMODULE'),
+  ('wrapt.importer',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\wrapt\\importer.py',
+   'PYMODULE'),
+  ('wrapt.decorators',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\wrapt\\decorators.py',
+   'PYMODULE'),
+  ('wrapt.wrappers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\wrapt\\wrappers.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.rsa',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ec',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.base',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hashes',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hmac',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\hmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.x509',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\x509\\__init__.py',
+   'PYMODULE'),
+  ('cryptography',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.__about__',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\__about__.py',
+   'PYMODULE'),
+  ('jwcrypto.jwa',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\jwcrypto\\jwa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.padding',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.keywrap',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\keywrap.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf.pbkdf2',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\pbkdf2.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf.concatkdf',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\concatkdf.py',
+   'PYMODULE'),
+  ('requests_toolbelt.adapters.appengine',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests_toolbelt\\adapters\\appengine.py',
+   'PYMODULE'),
+  ('requests_toolbelt._compat',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests_toolbelt\\_compat.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname._implementation',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\_implementation.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.appengine',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\contrib\\appengine.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('brotli',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\brotli.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('requests_toolbelt.exceptions',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests_toolbelt\\exceptions.py',
+   'PYMODULE'),
+  ('requests_toolbelt',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests_toolbelt\\__init__.py',
+   'PYMODULE'),
+  ('requests_toolbelt.utils.user_agent',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests_toolbelt\\utils\\user_agent.py',
+   'PYMODULE'),
+  ('requests_toolbelt.utils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests_toolbelt\\utils\\__init__.py',
+   'PYMODULE'),
+  ('requests_toolbelt.streaming_iterator',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests_toolbelt\\streaming_iterator.py',
+   'PYMODULE'),
+  ('requests_toolbelt.multipart.encoder',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests_toolbelt\\multipart\\encoder.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('chardet',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langrussianmodel',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langrussianmodel.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests_toolbelt.multipart',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests_toolbelt\\multipart\\__init__.py',
+   'PYMODULE'),
+  ('requests_toolbelt.multipart.decoder',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests_toolbelt\\multipart\\decoder.py',
+   'PYMODULE'),
+  ('requests_toolbelt.auth.guess',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests_toolbelt\\auth\\guess.py',
+   'PYMODULE'),
+  ('requests_toolbelt.auth.http_proxy_digest',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests_toolbelt\\auth\\http_proxy_digest.py',
+   'PYMODULE'),
+  ('requests_toolbelt.auth._digest_auth_compat',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests_toolbelt\\auth\\_digest_auth_compat.py',
+   'PYMODULE'),
+  ('requests_toolbelt.auth',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests_toolbelt\\auth\\__init__.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('requests_toolbelt.adapters',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests_toolbelt\\adapters\\__init__.py',
+   'PYMODULE'),
+  ('requests_toolbelt.adapters.source',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests_toolbelt\\adapters\\source.py',
+   'PYMODULE'),
+  ('requests_toolbelt.adapters.ssl',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests_toolbelt\\adapters\\ssl.py',
+   'PYMODULE'),
+  ('gcloud.storage',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\storage\\__init__.py',
+   'PYMODULE'),
+  ('gcloud.storage.connection',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\storage\\connection.py',
+   'PYMODULE'),
+  ('gcloud.connection',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\connection.py',
+   'PYMODULE'),
+  ('gcloud.exceptions',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\exceptions.py',
+   'PYMODULE'),
+  ('httplib2',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\httplib2\\__init__.py',
+   'PYMODULE'),
+  ('httplib2.certs',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\httplib2\\certs.py',
+   'PYMODULE'),
+  ('httplib2.iri2uri',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\httplib2\\iri2uri.py',
+   'PYMODULE'),
+  ('httplib2.error',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\httplib2\\error.py',
+   'PYMODULE'),
+  ('httplib2.auth',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\httplib2\\auth.py',
+   'PYMODULE'),
+  ('httplib2.socks',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\httplib2\\socks.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('gcloud.storage.client',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\storage\\client.py',
+   'PYMODULE'),
+  ('gcloud.iterator',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\iterator.py',
+   'PYMODULE'),
+  ('gcloud.client',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\client.py',
+   'PYMODULE'),
+  ('gcloud.credentials',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\credentials.py',
+   'PYMODULE'),
+  ('oauth2client.client',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\oauth2client\\client.py',
+   'PYMODULE'),
+  ('oauth2client.contrib.gce',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\oauth2client\\contrib\\gce.py',
+   'PYMODULE'),
+  ('oauth2client.contrib._metadata',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\oauth2client\\contrib\\_metadata.py',
+   'PYMODULE'),
+  ('oauth2client.contrib',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\oauth2client\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('oauth2client.contrib._appengine_ndb',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\oauth2client\\contrib\\_appengine_ndb.py',
+   'PYMODULE'),
+  ('oauth2client.contrib.xsrfutil',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\oauth2client\\contrib\\xsrfutil.py',
+   'PYMODULE'),
+  ('oauth2client.contrib.appengine',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\oauth2client\\contrib\\appengine.py',
+   'PYMODULE'),
+  ('oauth2client.crypt',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\oauth2client\\crypt.py',
+   'PYMODULE'),
+  ('oauth2client._pycrypto_crypt',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\oauth2client\\_pycrypto_crypt.py',
+   'PYMODULE'),
+  ('Crypto.Signature.PKCS1_v1_5',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Signature\\PKCS1_v1_5.py',
+   'PYMODULE'),
+  ('Crypto.Signature.pkcs1_15',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Signature\\pkcs1_15.py',
+   'PYMODULE'),
+  ('Crypto.Signature',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Crypto\\Signature\\__init__.py',
+   'PYMODULE'),
+  ('oauth2client._openssl_crypt',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\oauth2client\\_openssl_crypt.py',
+   'PYMODULE'),
+  ('oauth2client._pure_python_crypt',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\oauth2client\\_pure_python_crypt.py',
+   'PYMODULE'),
+  ('rsa',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\rsa\\__init__.py',
+   'PYMODULE'),
+  ('rsa.pkcs1',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\rsa\\pkcs1.py',
+   'PYMODULE'),
+  ('rsa.core',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\rsa\\core.py',
+   'PYMODULE'),
+  ('rsa.common',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\rsa\\common.py',
+   'PYMODULE'),
+  ('rsa.key',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\rsa\\key.py',
+   'PYMODULE'),
+  ('pyasn1.type.namedtype',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\type\\namedtype.py',
+   'PYMODULE'),
+  ('pyasn1.type.tagmap',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\type\\tagmap.py',
+   'PYMODULE'),
+  ('pyasn1.type.tag',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\type\\tag.py',
+   'PYMODULE'),
+  ('pyasn1.error',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\error.py',
+   'PYMODULE'),
+  ('pyasn1',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.debug',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\debug.py',
+   'PYMODULE'),
+  ('pyasn1.compat.octets',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\compat\\octets.py',
+   'PYMODULE'),
+  ('pyasn1.compat',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.compat.string',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\compat\\string.py',
+   'PYMODULE'),
+  ('pyasn1.compat.dateandtime',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\compat\\dateandtime.py',
+   'PYMODULE'),
+  ('pyasn1.compat.binary',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\compat\\binary.py',
+   'PYMODULE'),
+  ('pyasn1.compat.calling',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\compat\\calling.py',
+   'PYMODULE'),
+  ('pyasn1.type.univ',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\type\\univ.py',
+   'PYMODULE'),
+  ('pyasn1.type.namedval',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\type\\namedval.py',
+   'PYMODULE'),
+  ('pyasn1.type.constraint',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\type\\constraint.py',
+   'PYMODULE'),
+  ('pyasn1.type.error',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\type\\error.py',
+   'PYMODULE'),
+  ('pyasn1.type.base',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\type\\base.py',
+   'PYMODULE'),
+  ('pyasn1.compat.integer',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\compat\\integer.py',
+   'PYMODULE'),
+  ('pyasn1.codec.ber.eoo',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\codec\\ber\\eoo.py',
+   'PYMODULE'),
+  ('pyasn1.codec.ber',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\codec\\ber\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.codec.ber.encoder',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\codec\\ber\\encoder.py',
+   'PYMODULE'),
+  ('pyasn1.type.useful',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\type\\useful.py',
+   'PYMODULE'),
+  ('pyasn1.type.char',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\type\\char.py',
+   'PYMODULE'),
+  ('pyasn1.codec.ber.decoder',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\codec\\ber\\decoder.py',
+   'PYMODULE'),
+  ('pyasn1.codec',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\codec\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.type',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\type\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.type.opentype',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\type\\opentype.py',
+   'PYMODULE'),
+  ('pyasn1.codec.der.encoder',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\codec\\der\\encoder.py',
+   'PYMODULE'),
+  ('pyasn1.codec.cer.encoder',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\codec\\cer\\encoder.py',
+   'PYMODULE'),
+  ('pyasn1.codec.cer',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\codec\\cer\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.codec.cer.decoder',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\codec\\cer\\decoder.py',
+   'PYMODULE'),
+  ('rsa.asn1',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\rsa\\asn1.py',
+   'PYMODULE'),
+  ('rsa.randnum',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\rsa\\randnum.py',
+   'PYMODULE'),
+  ('rsa.pem',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\rsa\\pem.py',
+   'PYMODULE'),
+  ('rsa.prime',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\rsa\\prime.py',
+   'PYMODULE'),
+  ('rsa.parallel',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\rsa\\parallel.py',
+   'PYMODULE'),
+  ('rsa.transform',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\rsa\\transform.py',
+   'PYMODULE'),
+  ('pyasn1_modules.rfc5208',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1_modules\\rfc5208.py',
+   'PYMODULE'),
+  ('pyasn1_modules.rfc2251',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1_modules\\rfc2251.py',
+   'PYMODULE'),
+  ('pyasn1_modules.rfc2459',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1_modules\\rfc2459.py',
+   'PYMODULE'),
+  ('pyasn1_modules.pem',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1_modules\\pem.py',
+   'PYMODULE'),
+  ('pyasn1_modules',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1_modules\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.codec.der.decoder',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\codec\\der\\decoder.py',
+   'PYMODULE'),
+  ('pyasn1.codec.der',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyasn1\\codec\\der\\__init__.py',
+   'PYMODULE'),
+  ('oauth2client.transport',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\oauth2client\\transport.py',
+   'PYMODULE'),
+  ('oauth2client.clientsecrets',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\oauth2client\\clientsecrets.py',
+   'PYMODULE'),
+  ('oauth2client._pkce',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\oauth2client\\_pkce.py',
+   'PYMODULE'),
+  ('oauth2client._helpers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\oauth2client\\_helpers.py',
+   'PYMODULE'),
+  ('oauth2client',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\oauth2client\\__init__.py',
+   'PYMODULE'),
+  ('gcloud._helpers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\_helpers.py',
+   'PYMODULE'),
+  ('pytz',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('gcloud.environment_vars',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\environment_vars.py',
+   'PYMODULE'),
+  ('google.protobuf.timestamp_pb2',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\timestamp_pb2.py',
+   'PYMODULE'),
+  ('google.protobuf.symbol_database',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\symbol_database.py',
+   'PYMODULE'),
+  ('google.protobuf.message_factory',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\message_factory.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.python_message',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\internal\\python_message.py',
+   'PYMODULE'),
+  ('google.protobuf.text_format',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\text_format.py',
+   'PYMODULE'),
+  ('google.protobuf.text_encoding',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\text_encoding.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.wire_format',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\internal\\wire_format.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.well_known_types',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\internal\\well_known_types.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.type_checkers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\internal\\type_checkers.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.message_listener',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\internal\\message_listener.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.extension_dict',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\internal\\extension_dict.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.enum_type_wrapper',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\internal\\enum_type_wrapper.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.encoder',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\internal\\encoder.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.decoder',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\internal\\decoder.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.containers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\internal\\containers.py',
+   'PYMODULE'),
+  ('google.protobuf.pyext.cpp_message',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\pyext\\cpp_message.py',
+   'PYMODULE'),
+  ('google.protobuf.pyext',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\pyext\\__init__.py',
+   'PYMODULE'),
+  ('google.protobuf.message',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\message.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.api_implementation',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\internal\\api_implementation.py',
+   'PYMODULE'),
+  ('google.protobuf.descriptor_pool',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\descriptor_pool.py',
+   'PYMODULE'),
+  ('google.protobuf.descriptor_pb2',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\descriptor_pb2.py',
+   'PYMODULE'),
+  ('google.protobuf.descriptor_database',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\descriptor_database.py',
+   'PYMODULE'),
+  ('google.protobuf.descriptor',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\descriptor.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.builder',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\internal\\builder.py',
+   'PYMODULE'),
+  ('google.protobuf.service_reflection',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\service_reflection.py',
+   'PYMODULE'),
+  ('google.protobuf.service',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\service.py',
+   'PYMODULE'),
+  ('google.protobuf.reflection',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\reflection.py',
+   'PYMODULE'),
+  ('google.protobuf.internal',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\internal\\__init__.py',
+   'PYMODULE'),
+  ('google.protobuf',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\__init__.py',
+   'PYMODULE'),
+  ('google.protobuf.any_pb2',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\any_pb2.py',
+   'PYMODULE'),
+  ('google.protobuf.duration_pb2',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\protobuf\\duration_pb2.py',
+   'PYMODULE'),
+  ('google', '-', 'PYMODULE'),
+  ('google.resumable_media',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\resumable_media\\__init__.py',
+   'PYMODULE'),
+  ('google.resumable_media._upload',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\resumable_media\\_upload.py',
+   'PYMODULE'),
+  ('google.resumable_media._download',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\resumable_media\\_download.py',
+   'PYMODULE'),
+  ('google.resumable_media._helpers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\resumable_media\\_helpers.py',
+   'PYMODULE'),
+  ('google_crc32c',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google_crc32c\\__init__.py',
+   'PYMODULE'),
+  ('google_crc32c.python',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google_crc32c\\python.py',
+   'PYMODULE'),
+  ('google_crc32c._checksum',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google_crc32c\\_checksum.py',
+   'PYMODULE'),
+  ('google_crc32c.cext',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google_crc32c\\cext.py',
+   'PYMODULE'),
+  ('google_crc32c.__config__',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google_crc32c\\__config__.py',
+   'PYMODULE'),
+  ('google.resumable_media.common',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\resumable_media\\common.py',
+   'PYMODULE'),
+  ('gcloud.storage.bucket',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\storage\\bucket.py',
+   'PYMODULE'),
+  ('gcloud.storage.acl',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\storage\\acl.py',
+   'PYMODULE'),
+  ('gcloud.storage._helpers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\storage\\_helpers.py',
+   'PYMODULE'),
+  ('gcloud.storage.blob',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\storage\\blob.py',
+   'PYMODULE'),
+  ('gcloud.streaming.transfer',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\streaming\\transfer.py',
+   'PYMODULE'),
+  ('gcloud.streaming',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\streaming\\__init__.py',
+   'PYMODULE'),
+  ('gcloud.streaming.util',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\streaming\\util.py',
+   'PYMODULE'),
+  ('gcloud.streaming.stream_slice',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\streaming\\stream_slice.py',
+   'PYMODULE'),
+  ('gcloud.streaming.exceptions',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\streaming\\exceptions.py',
+   'PYMODULE'),
+  ('gcloud.streaming.buffered_stream',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\streaming\\buffered_stream.py',
+   'PYMODULE'),
+  ('email.mime.nonmultipart',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\mime\\nonmultipart.py',
+   'PYMODULE'),
+  ('email.mime',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\mime\\__init__.py',
+   'PYMODULE'),
+  ('email.mime.base',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\mime\\base.py',
+   'PYMODULE'),
+  ('email.mime.multipart',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\mime\\multipart.py',
+   'PYMODULE'),
+  ('gcloud.streaming.http_wrapper',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\streaming\\http_wrapper.py',
+   'PYMODULE'),
+  ('gcloud.storage.batch',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\storage\\batch.py',
+   'PYMODULE'),
+  ('email.mime.application',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\email\\mime\\application.py',
+   'PYMODULE'),
+  ('gcloud',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gcloud\\__init__.py',
+   'PYMODULE'),
+  ('oauth2client.service_account',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\oauth2client\\service_account.py',
+   'PYMODULE'),
+  ('pyrebase.pyre_sseclient',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyrebase\\pyre_sseclient.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.api',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('firebase_admin.storage',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\firebase_admin\\storage.py',
+   'PYMODULE'),
+  ('firebase_admin._utils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\firebase_admin\\_utils.py',
+   'PYMODULE'),
+  ('firebase_admin.exceptions',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\firebase_admin\\exceptions.py',
+   'PYMODULE'),
+  ('google.auth',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\__init__.py',
+   'PYMODULE'),
+  ('google.auth._default',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\_default.py',
+   'PYMODULE'),
+  ('google.oauth2.service_account',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\oauth2\\service_account.py',
+   'PYMODULE'),
+  ('google.oauth2._client',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\oauth2\\_client.py',
+   'PYMODULE'),
+  ('google.oauth2.credentials',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\oauth2\\credentials.py',
+   'PYMODULE'),
+  ('google.oauth2.reauth',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\oauth2\\reauth.py',
+   'PYMODULE'),
+  ('google.oauth2.challenges',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\oauth2\\challenges.py',
+   'PYMODULE'),
+  ('google.oauth2',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\oauth2\\__init__.py',
+   'PYMODULE'),
+  ('google.oauth2.sts',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\oauth2\\sts.py',
+   'PYMODULE'),
+  ('google.oauth2.utils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\oauth2\\utils.py',
+   'PYMODULE'),
+  ('google.auth.transport.requests',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\transport\\requests.py',
+   'PYMODULE'),
+  ('google.auth.transport._mtls_helper',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\transport\\_mtls_helper.py',
+   'PYMODULE'),
+  ('google.auth.transport',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\transport\\__init__.py',
+   'PYMODULE'),
+  ('google.auth.compute_engine._metadata',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\compute_engine\\_metadata.py',
+   'PYMODULE'),
+  ('google.auth.app_engine',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\app_engine.py',
+   'PYMODULE'),
+  ('google.auth.transport._http_client',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\transport\\_http_client.py',
+   'PYMODULE'),
+  ('google.auth.identity_pool',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\identity_pool.py',
+   'PYMODULE'),
+  ('google.auth.aws',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\aws.py',
+   'PYMODULE'),
+  ('google.auth.external_account',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\external_account.py',
+   'PYMODULE'),
+  ('google.auth.impersonated_credentials',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\impersonated_credentials.py',
+   'PYMODULE'),
+  ('google.auth.compute_engine',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\compute_engine\\__init__.py',
+   'PYMODULE'),
+  ('google.auth.compute_engine.credentials',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\compute_engine\\credentials.py',
+   'PYMODULE'),
+  ('google.auth.jwt',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\jwt.py',
+   'PYMODULE'),
+  ('google.auth.crypt.es256',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\crypt\\es256.py',
+   'PYMODULE'),
+  ('google.auth.crypt.base',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\crypt\\base.py',
+   'PYMODULE'),
+  ('cachetools',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cachetools\\__init__.py',
+   'PYMODULE'),
+  ('cachetools.keys',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cachetools\\keys.py',
+   'PYMODULE'),
+  ('google.auth._service_account_info',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\_service_account_info.py',
+   'PYMODULE'),
+  ('google.auth.iam',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\iam.py',
+   'PYMODULE'),
+  ('google.auth.crypt',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\crypt\\__init__.py',
+   'PYMODULE'),
+  ('google.auth.crypt.rsa',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\crypt\\rsa.py',
+   'PYMODULE'),
+  ('google.auth.crypt._python_rsa',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\crypt\\_python_rsa.py',
+   'PYMODULE'),
+  ('google.auth.crypt._cryptography_rsa',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\crypt\\_cryptography_rsa.py',
+   'PYMODULE'),
+  ('google.auth.credentials',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\credentials.py',
+   'PYMODULE'),
+  ('google.auth._helpers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\_helpers.py',
+   'PYMODULE'),
+  ('google.auth._cloud_sdk',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\_cloud_sdk.py',
+   'PYMODULE'),
+  ('google.auth.exceptions',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\exceptions.py',
+   'PYMODULE'),
+  ('google.auth.environment_vars',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\environment_vars.py',
+   'PYMODULE'),
+  ('google.auth.version',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\version.py',
+   'PYMODULE'),
+  ('google.cloud.storage',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\storage\\__init__.py',
+   'PYMODULE'),
+  ('google.cloud.storage.client',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\storage\\client.py',
+   'PYMODULE'),
+  ('google.cloud.storage.retry',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\storage\\retry.py',
+   'PYMODULE'),
+  ('google.api_core.retry',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\api_core\\retry.py',
+   'PYMODULE'),
+  ('google.api_core.datetime_helpers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\api_core\\datetime_helpers.py',
+   'PYMODULE'),
+  ('google.api_core.exceptions',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\api_core\\exceptions.py',
+   'PYMODULE'),
+  ('grpc_status.rpc_status',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc_status\\rpc_status.py',
+   'PYMODULE'),
+  ('grpc_status._async',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc_status\\_async.py',
+   'PYMODULE'),
+  ('grpc.experimental.aio',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\experimental\\aio\\__init__.py',
+   'PYMODULE'),
+  ('grpc.aio',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\aio\\__init__.py',
+   'PYMODULE'),
+  ('grpc.aio._typing',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\aio\\_typing.py',
+   'PYMODULE'),
+  ('grpc.aio._server',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\aio\\_server.py',
+   'PYMODULE'),
+  ('grpc._cython',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\_cython\\__init__.py',
+   'PYMODULE'),
+  ('grpc._compression',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\_compression.py',
+   'PYMODULE'),
+  ('grpc._common',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\_common.py',
+   'PYMODULE'),
+  ('grpc.aio._metadata',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\aio\\_metadata.py',
+   'PYMODULE'),
+  ('grpc.aio._interceptor',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\aio\\_interceptor.py',
+   'PYMODULE'),
+  ('grpc.aio._utils',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\aio\\_utils.py',
+   'PYMODULE'),
+  ('grpc.aio._channel',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\aio\\_channel.py',
+   'PYMODULE'),
+  ('grpc._grpcio_metadata',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\_grpcio_metadata.py',
+   'PYMODULE'),
+  ('grpc.aio._call',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\aio\\_call.py',
+   'PYMODULE'),
+  ('grpc.aio._base_server',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\aio\\_base_server.py',
+   'PYMODULE'),
+  ('grpc.aio._base_channel',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\aio\\_base_channel.py',
+   'PYMODULE'),
+  ('grpc.aio._base_call',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\aio\\_base_call.py',
+   'PYMODULE'),
+  ('grpc.experimental',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\experimental\\__init__.py',
+   'PYMODULE'),
+  ('grpc._simple_stubs',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\_simple_stubs.py',
+   'PYMODULE'),
+  ('grpc_status._common',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc_status\\_common.py',
+   'PYMODULE'),
+  ('google.rpc.status_pb2',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\rpc\\status_pb2.py',
+   'PYMODULE'),
+  ('grpc_status',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc_status\\__init__.py',
+   'PYMODULE'),
+  ('grpc',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\__init__.py',
+   'PYMODULE'),
+  ('grpc._server',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\_server.py',
+   'PYMODULE'),
+  ('grpc._interceptor',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\_interceptor.py',
+   'PYMODULE'),
+  ('grpc._channel',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\_channel.py',
+   'PYMODULE'),
+  ('grpc._auth',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\_auth.py',
+   'PYMODULE'),
+  ('grpc._plugin_wrapping',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\_plugin_wrapping.py',
+   'PYMODULE'),
+  ('grpc._utilities',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\_utilities.py',
+   'PYMODULE'),
+  ('grpc._runtime_protos',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\grpc\\_runtime_protos.py',
+   'PYMODULE'),
+  ('google.rpc.error_details_pb2',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\rpc\\error_details_pb2.py',
+   'PYMODULE'),
+  ('google.rpc',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\rpc\\__init__.py',
+   'PYMODULE'),
+  ('google.cloud.storage.constants',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\storage\\constants.py',
+   'PYMODULE'),
+  ('google.cloud.storage.acl',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\storage\\acl.py',
+   'PYMODULE'),
+  ('google.cloud.storage.hmac_key',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\storage\\hmac_key.py',
+   'PYMODULE'),
+  ('google.cloud.storage._signing',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\storage\\_signing.py',
+   'PYMODULE'),
+  ('google.cloud.storage._http',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\storage\\_http.py',
+   'PYMODULE'),
+  ('google.cloud._http',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\_http\\__init__.py',
+   'PYMODULE'),
+  ('google.cloud.version',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\version.py',
+   'PYMODULE'),
+  ('google.api_core.client_info',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\api_core\\client_info.py',
+   'PYMODULE'),
+  ('google.api_core.version',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\api_core\\version.py',
+   'PYMODULE'),
+  ('google.cloud.exceptions',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\exceptions\\__init__.py',
+   'PYMODULE'),
+  ('google.cloud.client',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\client\\__init__.py',
+   'PYMODULE'),
+  ('google.cloud._helpers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\_helpers\\__init__.py',
+   'PYMODULE'),
+  ('google.auth.transport.grpc',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\auth\\transport\\grpc.py',
+   'PYMODULE'),
+  ('google.api_core.page_iterator',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\api_core\\page_iterator.py',
+   'PYMODULE'),
+  ('google.api_core',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\api_core\\__init__.py',
+   'PYMODULE'),
+  ('google.api_core.client_options',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\api_core\\client_options.py',
+   'PYMODULE'),
+  ('google.cloud.storage.bucket',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\storage\\bucket.py',
+   'PYMODULE'),
+  ('google.cloud.storage.notification',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\storage\\notification.py',
+   'PYMODULE'),
+  ('google.api_core.iam',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\api_core\\iam.py',
+   'PYMODULE'),
+  ('google.cloud.storage.blob',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\storage\\blob.py',
+   'PYMODULE'),
+  ('google.cloud.storage.fileio',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\storage\\fileio.py',
+   'PYMODULE'),
+  ('google.resumable_media.requests',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\resumable_media\\requests\\__init__.py',
+   'PYMODULE'),
+  ('google.resumable_media.requests.upload',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\resumable_media\\requests\\upload.py',
+   'PYMODULE'),
+  ('google.resumable_media.requests.download',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\resumable_media\\requests\\download.py',
+   'PYMODULE'),
+  ('google.resumable_media.requests._request_helpers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\resumable_media\\requests\\_request_helpers.py',
+   'PYMODULE'),
+  ('google.cloud.storage.batch',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\storage\\batch.py',
+   'PYMODULE'),
+  ('google.cloud.storage._helpers',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\storage\\_helpers.py',
+   'PYMODULE'),
+  ('google.cloud.storage.version',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\google\\cloud\\storage\\version.py',
+   'PYMODULE'),
+  ('google.cloud', '-', 'PYMODULE'),
+  ('os',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\os.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('firebase_admin.db',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\firebase_admin\\db.py',
+   'PYMODULE'),
+  ('firebase_admin._sseclient',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\firebase_admin\\_sseclient.py',
+   'PYMODULE'),
+  ('firebase_admin._http_client',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\firebase_admin\\_http_client.py',
+   'PYMODULE'),
+  ('firebase_admin.credentials',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\firebase_admin\\credentials.py',
+   'PYMODULE'),
+  ('firebase_admin',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\firebase_admin\\__init__.py',
+   'PYMODULE'),
+  ('firebase_admin.__about__',
+   'c:\\users\\nitin '
+   'goel\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\firebase_admin\\__about__.py',
+   'PYMODULE')])

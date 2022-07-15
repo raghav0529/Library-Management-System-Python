@@ -7,11 +7,14 @@ from tkinter import filedialog
 from tkinter import messagebox
 import pyrebase
 from PIL import Image
+from os import path
+
+path1 = path.abspath(path.join(path.dirname(__file__), 'library-automation-c121b-firebase-adminsdk-4933x-8b068eb369.json'))
 
 try:
     app = firebase_admin.get_app()
 except ValueError as e:
-    cred = credentials.Certificate('library-automation-c121b-firebase-adminsdk-4933x-8b068eb369.json')
+    cred = credentials.Certificate(path1)
     firebase_admin.initialize_app(cred , {
         'databaseURL' : 'https://library-automation-c121b-default-rtdb.asia-southeast1.firebasedatabase.app/', 
     '   storageBucket': 'library-automation-c121b.appspot.com'
@@ -64,6 +67,11 @@ def add_book():
 
 root = Tk()
 root.title("Library")
+
+path2 = path.abspath(path.join(path.dirname(__file__), 'library.png'))
+p1 = PhotoImage(file=path2)
+root.iconphoto(False, p1)
+
 root.geometry("900x450")
 
 def add_bookPage():
